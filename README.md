@@ -6,7 +6,7 @@ This repository contains supplementary figures and tables referenced in the pape
 
 **"Public Preferences for Primary Healthcare Services in Hong Kong: A Discrete Choice Experiment"**
 
-Published in: *BMC Primary Care*
+*BMC Primary Care*
 
 ## Authors
 
