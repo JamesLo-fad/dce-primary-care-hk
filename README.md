@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains supplementary figures and tables referenced in the paper:
+This repository contains supplementary figures and tables referenced in the paper - Online supplementary D
 
 **"Public Preferences for Primary Healthcare Services in Hong Kong: A Discrete Choice Experiment"**
 
@@ -17,9 +17,9 @@ Published in: *BMC Primary Care*
   - Email: lin-apss.nie@polyu.edu.hk
 
 ## Repository Structure
-├── figures/ # All figures referenced in the paper
+├── Figures/ # All figures referenced in the Online supplementary D
 
-├── tables/ # All tables referenced in the paper
+├── Tables/ # All tables referenced in the Online supplementary D
 
 └── README.md
 
